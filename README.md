@@ -19,21 +19,6 @@ I enjoy building products, exploring AI tools, and turning random ideas into rea
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-Languages
-
-### Frontend
-Frontend
-
-### Backend & Database
-Backend
-
-### Tools
-Tools
-
----
 
 ## 📌 Featured Project
 
@@ -71,17 +56,3 @@ GitHub Streak
 
 ---
 
-## 🌍 Connect With Me
-
-- GitHub: https://github.com/stevenwangzv
-- Email: stevenwangzv@gmail.com
-
----
-
-## 👀 Visitor Count
-
-
-
----
-
-> "Build things that people genuinely want to use."
