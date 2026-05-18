@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Steven Wang  
+I'm Theway Wang
 A Computer Science student at the University of Leeds 🇬🇧
 
 Currently building UniBao (留英宝) — a platform designed for Chinese international students in the UK.  
