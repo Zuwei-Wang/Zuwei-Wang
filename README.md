@@ -35,17 +35,9 @@ Currently focused on:
 - AI-assisted content moderation
 - Cross-platform expansion (Web + iOS)
 
----
-
-## 📊 GitHub Stats
-
-GitHub stats
-
-Top Langs
-
-GitHub Streak
 
 ---
+
 
 ## 🎯 Current Goals
 
